@@ -7,7 +7,7 @@ Arayüzü Tkinter kullanılarak yapılmış olup içerisinde siteden veri çekip
 
 Ayriyeten uygulamanın sol kısmında kalan "Hedef" bölümünden istediğiniz üniversiteyi ve bölümü yazarak o bölümün puanını öğrenebilirsiniz.
 
-!!! SELENİUM WEB DRİVER, CHROME'UN 88 NUMARALI SÜRÜMÜNÜ DESTEKLEMEKTEDİR. EĞER FARKLI BİR TARAYICI VEYA SÜRÜM KULLANIYORSANIZ LÜTFEN CHROMEWEBDRİVER İLE DEĞİŞTİRİP KODU ONA GÖRE DÜZENLEYİN.
+!!! SELENİUM WEB DRİVER, CHROME'UN 88 NUMARALI SÜRÜMÜNÜ DESTEKLEMEKTEDİR. EĞER FARKLI BİR TARAYICI VEYA SÜRÜM KULLANIYORSANIZ LÜTFEN CHROMEDRİVER.EXE İLE DEĞİŞTİRİP KODU ONA GÖRE DÜZENLEYİN.
 
 ENG:
 
@@ -17,4 +17,4 @@ Its interface is made using Tkinter, and Selenium is used to extract and send da
 
 In addition, you can learn the score of that department by writing the university and department you want in the "Hedef" section on the left side of the application.
 
-!!! SELENIUM WEB DRIVER SUPPORTS CHROME VERSION 88. IF YOU ARE USING A DIFFERENT BROWSER OR VERSION, PLEASE REPLACE IT WITH CHROMEWEBDRIVER AND ADJUST THE CODE ACCORDING TO IT. 
+!!! SELENIUM WEB DRIVER SUPPORTS CHROME VERSION 88. IF YOU ARE USING A DIFFERENT BROWSER OR VERSION, PLEASE REPLACE IT WITH CHROMEDRIVER.EXE AND ADJUST THE CODE ACCORDING TO IT. 
